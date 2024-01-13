@@ -2,3 +2,5 @@ pandas
 numpy
 matplotlib
 pytest
+
+python programming_exercise_decision_trees.py features-train-cleaned.tsv quality-scores-train-cleaned.tsv features-test-cleaned.tsv
