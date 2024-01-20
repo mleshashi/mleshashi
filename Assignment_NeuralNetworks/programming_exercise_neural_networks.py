@@ -332,19 +332,32 @@ if __name__ == "__main__":
     import pytest
     import sys
 
+    # debug = False
+    # path = "D:\\AStudies\\aDigital Engineering\\ML\\Assignment_4\\"
+    # train_features_file_name = (
+    #     sys.argv[1] if (not debug) else path + "features-train-cleaned.tsv"
+    # )  # sys.argv[1] #
+    # train_classes_file_name = (
+    #     sys.argv[2] if (not debug) else path + "quality-scores-train-cleaned.tsv"
+    # )
+    # test_features_file_name = (
+    #     sys.argv[3] if (not debug) else path + "features-test-cleaned.tsv"
+    # )
+    # test_predictions_file_name = (
+    #     sys.argv[4] if (not debug) else path + "quality-scores-test-predicted.tsv"
+    # )
+
     debug = False
-    path = "D:\\AStudies\\aDigital Engineering\\ML\\Assignment_4\\"
+
     train_features_file_name = (
-        sys.argv[1] if (not debug) else path + "features-train-cleaned.tsv"
-    )  # sys.argv[1] #
+        sys.argv[1] if not debug else "features-train-cleaned.tsv"
+    )
     train_classes_file_name = (
-        sys.argv[2] if (not debug) else path + "quality-scores-train-cleaned.tsv"
+        sys.argv[2] if not debug else "quality-scores-train-cleaned.tsv"
     )
-    test_features_file_name = (
-        sys.argv[3] if (not debug) else path + "features-test-cleaned.tsv"
-    )
+    test_features_file_name = sys.argv[3] if not debug else "features-test-cleaned.tsv"
     test_predictions_file_name = (
-        sys.argv[4] if (not debug) else path + "quality-scores-test-predicted.tsv"
+        sys.argv[4] if not debug else "quality-scores-test-predicted.tsv"
     )
 
     xs = load_feature_vectors(train_features_file_name)
