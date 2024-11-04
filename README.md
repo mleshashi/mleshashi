@@ -7,29 +7,27 @@ I’m passionate about tackling complex data challenges, building intelligent mo
 I'm diving into Generative AI and multimodal data processing, pushing boundaries in NLP and computer vision projects. Always excited to learn something new and innovative!
 
 ### 💞️ Let’s Collaborate!
-I’d love to team up on open-source projects, data challenges, or anything involving machine learning, data engineering, or NLP. If you’re into creative applications of AI or data, let’s connect!
+I’m actively looking for new opportunities as a Data Scientist or Machine Learning Engineer. I’d love to team up on open-source projects, data challenges, or any role involving machine learning, data engineering, or NLP. If you’re into creative applications of AI or data, let’s connect!
 
 ### 📫 How to Reach Me
 - **Email:** ss139529@gmail.com  
 - **LinkedIn:** [Shashi Sharma](https://linkedin.com/in/mleshashi)  
 - **GitHub:** [@mleshashi](https://github.com/mleshashi)  
 
-### 😄 Pronouns
-He/Him  
-
 ### ⚡ Fun Fact
-I've built everything from fraud detection models to sentiment analyzers — data is my playground!
+I’ve worked on projects from sentiment analysis to building real-time dashboards — data is my playground!
+
 
 ---
 
 ## Repositories
 
-### [MSc Thesis: Chart Retrieval of Arguments](link coming soon)
+### [MSc Thesis: Chart Retrieval of Arguments](#coming-soon)
 Developed a multi-modal Retrieval-Augmented Generation (RAG) system using large language models and Elasticsearch to enable efficient chart retrieval and response generation based on both text and visual inputs.
-
 
 ### [Multimodal Sequence Representations for FEED Data](https://github.com/webis-de/argmining23-image-arg)
 Contributed to the ImageArg Shared Task by implementing neural models to classify tweets by stance and image persuasiveness on controversial topics.
+**Publication:** Our team published a paper based on this work! You can read it [here](https://aclanthology.org/2023.argmining-1.16/).
 
 ### [Amazon-Fine-Food-Reviews](https://github.com/mleshashi/Amazon-Fine-Food-Reviews)
 Data analysis on Amazon Fine Food Reviews using machine learning models to derive insights from consumer feedback. Focuses on sentiment analysis and predictive modeling to understand customer preferences.
@@ -42,9 +40,6 @@ An automated email agent that fetches, analyzes, and intelligently replies to em
 
 ### [Machine-Learning](https://github.com/mleshashi/Machine-Learning)
 A collection of machine learning assignments and projects, covering algorithms and techniques like decision trees, neural networks, and logistic regression. Includes foundational exercises and practical applications from Coursera studies.
-
-### [LearnPython](https://github.com/mleshashi/LearnPython)
-Personal projects to learn Python. Contains exercises and mini-projects exploring programming concepts and Python’s capabilities.
 
 ---
 
