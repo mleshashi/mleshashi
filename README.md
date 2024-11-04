@@ -6,7 +6,7 @@ I’m passionate about tackling complex data challenges, building intelligent mo
 ### 🌱 What I’m Currently Learning
 I'm diving into Generative AI and multimodal data processing, pushing boundaries in NLP and computer vision projects. Always excited to learn something new and innovative!
 
-### 💞️ Let’s Collaborate!
+### 🤝 Let’s Collaborate!
 I’m actively looking for new opportunities as a Data Scientist or Machine Learning Engineer. I’d love to team up on open-source projects, data challenges, or any role involving machine learning, data engineering, or NLP. If you’re into creative applications of AI or data, let’s connect!
 
 ### 📫 How to Reach Me
