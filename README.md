@@ -14,10 +14,6 @@ I’m actively looking for new opportunities as a Data Scientist or Machine Lear
 - **LinkedIn:** [Shashi Sharma](https://linkedin.com/in/mleshashi)  
 - **GitHub:** [@mleshashi](https://github.com/mleshashi)  
 
-### ⚡ Fun Fact
-I’ve worked on projects from sentiment analysis to building real-time dashboards — data is my playground!
-
-
 ---
 
 ## Repositories
