@@ -19,9 +19,9 @@ I recently graduated with a Master's degree in **Digital Engineering**. I’ve w
 ### 💼 Professional Experience
 
 I have had the opportunity to work with some amazing companies, contributing to data-driven projects and solutions:  
-**TeamViewer**: Product Analyst (Data Science focus) <br>  
-**Advantest**: Data Engineer <br>  
-**Amazon**: Risk Mining Analyst 
+✨ **TeamViewer**: Product Analyst (Data Science focus)
+✨ **Advantest**: Data Engineer
+✨ **Amazon**: Risk Mining Analyst 
 
 ---
 
