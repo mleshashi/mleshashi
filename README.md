@@ -18,16 +18,18 @@ I recently graduated with a Master's degree in **Digital Engineering**. I’ve w
 
 ### 💼 Professional Experience  
 I have had the opportunity to work with some amazing companies, contributing to data-driven projects and solutions:  
-**TeamViewer**: Product Analyst (Data Science focus) as a Working Student  
-**Advantest**: Data Engineer as a Working Student  
-**Amazon**: Risk Mining Analyst (Full-time) 
+**TeamViewer**: Product Analyst (Data Science focus)
+**Advantest**: Data Engineer
+**Amazon**: Risk Mining Analyst 
 
 ---
 
-Feel free to reach out to collaborate or just chat about data science and AI!  
-
-**LinkedIn**: [Shashi Sharma](https://linkedin.com/in/mleshashi)  
-**Email**: ss139529@gmail.com   
+Feel free to reach out to collaborate or just chat about data science and AI!
+  
+<a href="https://linkedin.com/in/mleshashi" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="24px" />
+</a>  
+**Email**: ss139529@gmail.com  
 
 ---
 
