@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋  
+## Hi there 👋  
 
 Welcome to my GitHub profile! I'm **Shashi Sharma**, and I'm a 💻 **Data Scientist**.  
 
