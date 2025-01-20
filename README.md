@@ -25,10 +25,11 @@ I have had the opportunity to work with some amazing companies, contributing to 
 ---
 
 Feel free to reach out to collaborate or just chat about data science and AI!
-  
+
 <a href="https://linkedin.com/in/mleshashi" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="24px" />
-</a>  
+</a>
+  
 **Email**: ss139529@gmail.com  
 
 ---
