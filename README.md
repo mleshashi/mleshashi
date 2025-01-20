@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi there 👋  
 
 Welcome to my GitHub profile! I'm **Shashi Sharma**, and I'm a 🌱 **Data Scientist**.  
@@ -11,24 +10,24 @@ I’m passionate about using **data and AI** to solve complex problems and build
 ### 🎓 About Me  
 I recently graduated with a Master's degree in **Digital Engineering**. I’ve worked on projects focusing on **NLP**, **Machine Learning**, and **Computer Vision**.  
 
-- ✨ **Master’s Thesis on [Chart Retrieval of Arguments]**: [//github.com/mleshashi/thesis-sharma]  
-- ✨ **My Portfolio**: [(https://github.com/mleshashi?tab=repositories)]  
+✨ [MSc Thesis: Chart Retrieval for Arguments](https://github.com/mleshashi/thesis-sharma) 
+✨ [My Portfolio](https://github.com/mleshashi?tab=repositories)  
 
 ---
 
 ### 💼 Professional Experience  
 I have had the opportunity to work with some amazing companies, contributing to data-driven projects and solutions:  
-- **TeamViewer**: Product Analyst (Data science focus) as a Working Student  
-- **ADVANTEST**: Data Engineer as a working Student.
-- **Amazon**: Risk Mining Analyst, Full time.
+**TeamViewer**: Product Analyst (Data science focus) as a Working Student.  
+**Advantest**: Data Engineer as a working Student.
+**Amazon**: Risk Mining Analyst, Full time.
 
 ---
 
 ### Connect With Me  
 Feel free to reach out to collaborate or just chat about data science and AI!  
 
-- **LinkedIn**: [Shashi Sharma](https://linkedin.com/in/mleshashi)  
-- **Email**: ss139529@gmail.com  
+**LinkedIn**: [Shashi Sharma](https://linkedin.com/in/mleshashi)  
+**Email**: ss139529@gmail.com  
 
 ---
 
@@ -37,7 +36,7 @@ Feel free to reach out to collaborate or just chat about data science and AI!
 
 ## Projects
 
-### [MSc Thesis: Chart Retrieval of Arguments](https://github.com/mleshashi/thesis-sharma)
+### [MSc Thesis: Chart Retrieval for Arguments](https://github.com/mleshashi/thesis-sharma)
 Developed a multi-modal Retrieval-Augmented Generation (RAG) system using large language models and Elasticsearch to enable efficient chart retrieval and response generation based on both text and visual inputs.
 
 ### [Multimodal Sequence Representations for FEED Data](https://github.com/webis-de/argmining23-image-arg)
