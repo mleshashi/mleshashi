@@ -18,7 +18,7 @@ I’m actively looking for new opportunities as a Data Scientist or Machine Lear
 
 ## Repositories
 
-### [MSc Thesis: Chart Retrieval of Arguments](#coming-soon)
+### [MSc Thesis: Chart Retrieval of Arguments](https://github.com/mleshashi/thesis-sharma)
 Developed a multi-modal Retrieval-Augmented Generation (RAG) system using large language models and Elasticsearch to enable efficient chart retrieval and response generation based on both text and visual inputs.
 
 ### [Multimodal Sequence Representations for FEED Data](https://github.com/webis-de/argmining23-image-arg)
