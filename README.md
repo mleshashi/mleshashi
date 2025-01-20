@@ -41,7 +41,7 @@ Feel free to reach out to collaborate or just chat about data science and AI!
 
 ## Projects
 
-### [MSc Thesis: Chart Retrieval for Arguments](https://github.com/mleshashi/thesis-sharma)
+### [Master's Thesis: Chart Retrieval for Arguments](https://github.com/mleshashi/thesis-sharma)
 Developed a multi-modal Retrieval-Augmented Generation (RAG) system using large language models and Elasticsearch to enable efficient chart retrieval and response generation based on both text and visual inputs.
 
 ### [Multimodal Sequence Representations for FEED Data](https://github.com/webis-de/argmining23-image-arg)
