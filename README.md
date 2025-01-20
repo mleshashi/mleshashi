@@ -1,22 +1,41 @@
-# 👋 Hi there, I'm Shashi Sharma (@mleshashi)!
+<div align="center">
 
-### 👀 What I’m Into
-I’m passionate about tackling complex data challenges, building intelligent models, and creating scalable solutions. From NLP and machine learning to analytics-driven insights, I love using data to make things smarter and more efficient.
+# Hi there 👋  
 
-### 🌱 What I’m Currently Learning
-I'm diving into Generative AI and multimodal data processing, pushing boundaries in NLP and computer vision projects. Always excited to learn something new and innovative!
+Welcome to my GitHub profile! I'm **Shashi Sharma**, and I'm a 🌱 **Data Scientist**.  
 
-### 🤝 Let’s Collaborate!
-I’m actively looking for new opportunities as a Data Scientist or Machine Learning Engineer. I’d love to team up on open-source projects, data challenges, or any role involving machine learning, data engineering, or NLP. If you’re into creative applications of AI or data, let’s connect!
-
-### 📫 How to Reach Me
-- **Email:** ss139529@gmail.com  
-- **LinkedIn:** [Shashi Sharma](https://linkedin.com/in/mleshashi)  
-- **GitHub:** [@mleshashi](https://github.com/mleshashi)  
+I’m passionate about using **data and AI** to solve complex problems and build impactful solutions.  
 
 ---
 
-## Repositories
+### 🎓 About Me  
+I recently graduated with a Master's degree in **Digital Engineering**. I’ve worked on projects focusing on **NLP**, **Machine Learning**, and **Computer Vision**.  
+
+- ✨ **Master’s Thesis on [Chart Retrieval of Arguments]**: [//github.com/mleshashi/thesis-sharma]  
+- ✨ **My Portfolio**: [(https://github.com/mleshashi?tab=repositories)]  
+
+---
+
+### 💼 Professional Experience  
+I have had the opportunity to work with some amazing companies, contributing to data-driven projects and solutions:  
+- **TeamViewer**: Product Analyst (Data science focus) as a Working Student  
+- **ADVANTEST**: Data Engineer as a working Student.
+- **Amazon**: Risk Mining Analyst, Full time.
+
+---
+
+### Connect With Me  
+Feel free to reach out to collaborate or just chat about data science and AI!  
+
+- **LinkedIn**: [Shashi Sharma](https://linkedin.com/in/mleshashi)  
+- **Email**: ss139529@gmail.com  
+
+---
+
+</div>
+
+
+## Projects
 
 ### [MSc Thesis: Chart Retrieval of Arguments](https://github.com/mleshashi/thesis-sharma)
 Developed a multi-modal Retrieval-Augmented Generation (RAG) system using large language models and Elasticsearch to enable efficient chart retrieval and response generation based on both text and visual inputs.
