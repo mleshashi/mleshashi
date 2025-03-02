@@ -2,7 +2,7 @@
 
 ## Hi there 👋  
 
-Welcome to my GitHub profile! I'm **Shashi Sharma**, and I'm a 💻 **Data Scientist**.  
+Welcome to my GitHub profile! I'm **Shashi Sharma**.  
 
 I’m passionate about using **data and AI** to solve complex problems and build impactful solutions.  
 
