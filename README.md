@@ -31,7 +31,7 @@ Feel free to reach out to collaborate or just chat about data science and AI!
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="24px" />
 </a>
   
-**Email**: ss139529@gmail.com  
+**Email**: sharma.shashi.ai@gmail.com  
 
 ---
 
