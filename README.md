@@ -56,7 +56,7 @@ Data science assessment including supplier data cleaning/merging and RFQ similar
 ### [Master's Thesis: Chart Retrieval for Arguments](https://github.com/mleshashi/thesis-sharma) ⭐
 Developed a multi-modal Retrieval-Augmented Generation (RAG) system using large language models and Elasticsearch to enable efficient chart retrieval and response generation based on both text and visual inputs.
 
-### [Multimodal Sequence Representations for FEED Data](https://github.com/webis-de/argmining23-image-arg)
+### [Multimodal Sequence Representations for FEED Data](https://github.com/webis-de/argmining23-image-arg) 🏆🏆
 Contributed to the ImageArg Shared Task by implementing neural models to classify tweets by stance and image persuasiveness on controversial topics.
 **Publication:** Our team published a paper based on this work! You can read it [here](https://aclanthology.org/2023.argmining-1.16/).
 
